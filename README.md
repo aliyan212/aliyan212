@@ -1,4 +1,4 @@
-### Hey, I'm Aliyan 👋
+### Hey, I'm Aliyan
 
 I like building mobile apps that feel good to use. Most of my time is spent obsessing over UI polish, micro-interactions, and building things I actually want to use myself.
 
